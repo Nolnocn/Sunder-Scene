@@ -2,7 +2,7 @@
 
 This project is currently being updated to Unity 5. Feel free to take a look, but the game will not function as intended.
 
-## About this Project
+### About this Project
 
 **Originally Created:** November, 2014
 
