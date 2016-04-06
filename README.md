@@ -1,3 +1,10 @@
 # Sunder Scene
 
-This project still needs some TLC to be fully functional in Unity 5. Please stand by.
+This project is currently being updated to Unity 5. Feel free to take a look, but the game will not function as intended.
+
+## About this Project
+
+**Originally Created:** November, 2014 
+**Project Duration:** 5 weeks
+**Team:** 5 people
+**Technologies Used:** Unity 4.x
